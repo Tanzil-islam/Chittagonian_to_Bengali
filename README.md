@@ -1,6 +1,3 @@
-Based on the analysis of the provided notebook, the project seems to involve translating Chittagonian text into Bengali. Here's a sample README file for your GitHub repository:
-
----
 
 # Chittagonian to Bengali Translation
 
