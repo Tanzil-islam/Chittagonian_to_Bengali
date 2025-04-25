@@ -1,5 +1,5 @@
 
-# Chittagonian to Bengali Translation
+# Chittagonian to Bengali Machine Translation
 
 This project focuses on translating Chittagonian language text into Bengali using natural language processing (NLP) techniques. The dataset used in this project consists of Chittagonian sentences paired with their Bengali translations. This project uses various libraries such as pandas, torch, and sentencepiece to preprocess the data and perform the translation tasks.
 
